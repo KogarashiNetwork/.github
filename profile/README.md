@@ -43,3 +43,7 @@ We have been working on cryptography schemes relevant to privacy, scaling, and o
 |[**zero-jubjub**](https://github.com/KogarashiNetwork/jubjub)|[![crates.io badge](https://img.shields.io/crates/v/zero-jubjub.svg)](https://crates.io/crates/zero-jubjub)|Twisted Edward curve `jubjub` implementation used for zero-knowledge circuit arithmetic domain.|
 |[**zero-bls12-381**](https://github.com/KogarashiNetwork/bls12_381)|[![crates.io badge](https://img.shields.io/crates/v/zero-bls12-381.svg)](https://crates.io/crates/zero-bls12-381)|Pairing-friendly `bls12 381` curve used for polynomial operation arithmetic domain.|
 |[**zero-elgamal**](https://github.com/KogarashiNetwork/elgamal)|[![crates.io badge](https://img.shields.io/crates/v/zero-elgamal.svg)](https://crates.io/crates/zero-elgamal)|Additive homomorphic ElGamal encryption based on `jubjub` curve.|
+
+## Follow Us
+
+[Website](https://kogarashi-network.com/) | [Twitter](https://twitter.com/KogarashiCrypto) | [Discord](https://discord.gg/g3q7tsHKTd) | [Github](https://github.com/KogarashiNetwork)
