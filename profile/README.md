@@ -1,13 +1,21 @@
-# Kogarashi Project
+# Kogarashi [![Discord](https://dcbadge.vercel.app/api/server/g3q7tsHKTd?style=social&compact=true)](https://discord.gg/g3q7tsHKTd)
 
-**Kogarashi Network** is working on cryptography research and development.
+**Kogarashi Network** is a Dapp platform that allows smart contracts to access to the Internet information resource.
 
-1. Trustless Oracle Parachain
-2. Zero Knowledge Proof Library Compatible with Polkadot Ecosystem
+<div align="center">
+    <img alt="image" src="https://github.com/KogarashiNetwork/tls_notary/assets/39494661/dafe9630-78bd-4a5b-a15c-d15f5a83cb18">
+</div>
 
 ## Motivation
 
-Our motivation is to implement **modern design pallets** next-generation blockchain infrastructure. Traditional blockchain is inefficient to process cryptographic schemes because of their `VM` and `data structure`, and it's hard to upgrade. We implement `a cryptography-friendly` runtime environment and structure, and it's easy to import to `Parachain`. Our libraries can be imported by every `Parachain` project and are efficient to process because it's compatible with `Polkadot`. These libraries allow more various functionalities.
+There are two motivations for this platform.
+
+1. Increase data type that can deal with Dapp
+2. Manage both advanced features and simple usability
+
+Firstly, a typical blockchain can deal with only cryptocurrency balance and crypto-assets. We innovate the data-getting process and bring off-chain data with trustless and low cost. Dapp on our platform can deal with various types of data from off-chain and realize a completely new use case.
+
+Secondly, typical blockchains are inefficient to process the latest cryptography scheme like zero-knowledge proof and homomorphic encryption. We innovate blockchain runtime and realize simple usage and fast process. Users can use various simple-to-use and a little gas cost functionalities.
 
 ## Pallets
 
