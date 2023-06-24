@@ -13,7 +13,7 @@ There are two motivations for this platform.
 1. Increase data type that can deal with Dapp
 2. Manage both advanced features and simple usability
 
-Firstly, a typical blockchain can deal with only cryptocurrency balance and crypto-assets. We innovate the data-getting process and bring off-chain data with trustless and low cost. Dapp on our platform can deal with various types of data from off-chain and realize a completely new use case.
+Firstly, typical blockchains can deal with only cryptocurrency balance and crypto-assets. We innovate the data-getting process and bring off-chain data with trustless and low cost. Dapp on our platform can deal with various types of data from off-chain and realize a completely new use case.
 
 Secondly, typical blockchains are inefficient to process the latest cryptography scheme like zero-knowledge proof and homomorphic encryption. We innovate blockchain runtime and realize simple usage and fast process. Users can use various simple-to-use and a little gas cost functionalities.
 
