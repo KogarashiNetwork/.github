@@ -17,34 +17,29 @@ Firstly, typical blockchains can deal with only cryptocurrency balance and crypt
 
 Secondly, typical blockchains are inefficient to process the latest cryptography scheme like zero-knowledge proof and homomorphic encryption. We innovate blockchain runtime and realize simple usage and fast process. **Users can use various simple-to-use and a little gas cost functionalities**.
 
-## Pallets
+## Activities
 
-### [**confidential_transfer**](https://github.com/KogarashiNetwork/Kogarashi/tree/master/pallets/confidential_transfer)
+We have been working on cryptography schemes relevant to privacy, scaling, and off-chain Oracle issues. Our approach involves creating cryptographic libraries from the ground up and ensuring their ability to adapt to changes.
 
-Confidential transfer pallet which allows us to transfer assets by hiding the exact amount.
+- **Core Thought**
 
-### [**encrypted_balance**](https://github.com/KogarashiNetwork/Kogarashi/tree/master/pallets/encrypted_balance)
+1. Replace with latest algorithms easily
+2. Avoid code duplication
+3. Compatible with [`no_std`](https://docs.rust-embedded.org/book/intro/no-std.html#a-no_std-rust-environment) and [`Parity SCALE Codec`](https://github.com/paritytech/parity-scale-codec).
 
-Encrypted balance pallet which allows us to use encrypted balance by additive homomorphic encryption.
+- **Pallets**
 
-### [**plonk**](https://github.com/KogarashiNetwork/Kogarashi/tree/master/pallets/plonk)
+|Pallet|Description|
+|---|---|
+|[**confidential_transfer**](https://github.com/KogarashiNetwork/Kogarashi/tree/master/pallets/confidential_transfer)|Confidential transfer pallet which allows us to transfer assets by hiding the exact amount.|
+|[**encrypted_balance**](https://github.com/KogarashiNetwork/Kogarashi/tree/master/pallets/encrypted_balance)|Encrypted balance pallet which allows us to use encrypted balance by additive homomorphic encryption.|
+|[**plonk**](https://github.com/KogarashiNetwork/Kogarashi/tree/master/pallets/plonk)|plonk pallet which allows us to use plonk verification in the runtime environment.|
 
-plonk pallet which allows us to use plonk verification in the runtime environment.
+- **Library**
 
-## Libraries
-
-### [**zero-crypto**](https://github.com/KogarashiNetwork/core) [![crates.io badge](https://img.shields.io/crates/v/zero-crypto.svg)](https://crates.io/crates/zero-crypto)
-
-Cryptography primitive implementation `Field`, `Curve` and `Pairing`, `Fft`, `Kzg`.
-
-### [**zero-jubjub**](https://github.com/KogarashiNetwork/jubjub) [![crates.io badge](https://img.shields.io/crates/v/zero-jubjub.svg)](https://crates.io/crates/zero-jubjub)
-
-Twisted Edward curve `jubjub` implementation used for zero-knowledge circuit arithmetic domain.
-
-### [**zero-bls12-381**](https://github.com/KogarashiNetwork/bls12_381) [![crates.io badge](https://img.shields.io/crates/v/zero-bls12-381.svg)](https://crates.io/crates/zero-bls12-381)
-
-Pairing-friendly `bls12 381` curve used for polynomial operation arithmetic domain.
-
-### [**zero-elgamal**](https://github.com/KogarashiNetwork/elgamal) [![crates.io badge](https://img.shields.io/crates/v/zero-elgamal.svg)](https://crates.io/crates/zero-elgamal)
-
-Additive homomorphic ElGamal encryption based on `jubjub` curve.
+|Library|Version|Description|
+|---|---|---|
+|[**zero-crypto**](https://github.com/KogarashiNetwork/core)|[![crates.io badge](https://img.shields.io/crates/v/zero-crypto.svg)](https://crates.io/crates/zero-crypto)|Cryptography primitive implementation `Field`, `Curve` and `Pairing`, `Fft`, `Kzg`.|
+|[**zero-jubjub**](https://github.com/KogarashiNetwork/jubjub)|[![crates.io badge](https://img.shields.io/crates/v/zero-jubjub.svg)](https://crates.io/crates/zero-jubjub)|Twisted Edward curve `jubjub` implementation used for zero-knowledge circuit arithmetic domain.|
+|[**zero-bls12-381**](https://github.com/KogarashiNetwork/bls12_381)|[![crates.io badge](https://img.shields.io/crates/v/zero-bls12-381.svg)](https://crates.io/crates/zero-bls12-381)|Pairing-friendly `bls12 381` curve used for polynomial operation arithmetic domain.|
+|[**zero-elgamal**](https://github.com/KogarashiNetwork/elgamal)|[![crates.io badge](https://img.shields.io/crates/v/zero-elgamal.svg)](https://crates.io/crates/zero-elgamal)|Additive homomorphic ElGamal encryption based on `jubjub` curve.|
