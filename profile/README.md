@@ -3,7 +3,7 @@
 **Kogarashi Network** is a Dapp platform that allows smart contracts to access Internet information resources.
 
 <div align="center">
-    <img alt="image" src="https://github.com/KogarashiNetwork/tls_notary/assets/39494661/dafe9630-78bd-4a5b-a15c-d15f5a83cb18">
+    <img alt="image" src="https://github.com/KogarashiNetwork/Kogarashi/assets/39494661/5a40d34b-8501-4fe4-a59e-2d097bde154d">
 </div>
 
 ## Motivation
