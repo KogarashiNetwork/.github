@@ -1,10 +1,11 @@
-# Kogarashi [![Discord](https://dcbadge.vercel.app/api/server/g3q7tsHKTd?style=social&compact=true)](https://discord.gg/g3q7tsHKTd)
-
-**Kogarashi Network** is a Dapp platform that allows smart contracts to access Internet information resources.
+# Kogarashi
+[![Twitter Follow](https://img.shields.io/twitter/follow/KogarashiCrypto?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=KogarashiCrypto) [![Discord](https://dcbadge.vercel.app/api/server/g3q7tsHKTd?style=social&compact=true)](https://discord.gg/g3q7tsHKTd)
 
 <div align="center">
     <img alt="image" src="https://github.com/KogarashiNetwork/Kogarashi/assets/39494661/5a40d34b-8501-4fe4-a59e-2d097bde154d">
 </div>
+
+**Kogarashi Network** is a Dapp platform that gives centralization convenience and decentralization transparency to Dapp via trustless and low-cost access to the Internet.
 
 ## Motivation
 
