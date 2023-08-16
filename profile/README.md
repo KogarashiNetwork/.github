@@ -5,7 +5,15 @@
     <img alt="image" src="https://github.com/KogarashiNetwork/Kogarashi/assets/39494661/5a40d34b-8501-4fe4-a59e-2d097bde154d">
 </div>
 
-**Kogarashi Network** is a Dapp platform that gives centralization convenience and decentralization transparency to Dapp via trustless and low-cost access to the Internet.
+Kogarashi Network is **Real Wold Hybrid Smart Contract on Crypto-Centric Scalable and Private Blockchain**
+
+■ **Real World Hybrid Smart Contract**
+
+Fetch the Internet data through TLS verification protocol with trustless and use it for smart contract executions.
+
+■ **Crypto-Centric Scalable and Private Blockchain**
+
+Recompose blockchain runtime, storage and functions as crypto-friendly, and achieve advanced features with high performance simple usage.
 
 ## Motivation
 
