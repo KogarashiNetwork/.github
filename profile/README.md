@@ -5,7 +5,7 @@
     <img alt="image" src="https://github.com/KogarashiNetwork/Kogarashi/assets/39494661/5a40d34b-8501-4fe4-a59e-2d097bde154d">
 </div>
 
-Kogarashi Network is **Real Wold Hybrid Smart Contract on Crypto-Centric Scalable and Private Blockchain**
+Kogarashi Network is a **Real Wold Hybrid Smart Contract on Crypto-Centric Scalable and Private Blockchain**
 
 ■ **Real World Hybrid Smart Contract**
 
