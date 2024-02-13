@@ -1,4 +1,4 @@
-# Kogarashi
+# 凩
 [![Twitter Follow](https://img.shields.io/twitter/follow/KogarashiCrypto?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=KogarashiCrypto) [![Discord](https://dcbadge.vercel.app/api/server/g3q7tsHKTd?style=social&compact=true)](https://discord.gg/g3q7tsHKTd)
 
 <div align="center">
